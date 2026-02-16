@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Preußisches Bataillon Shop</title>
+ <title style="color: red;">Preußisches Bataillon Shop</title>
+</head>
+
+<!-- Hintergrundbild hier einfügen -->
+<body background="Hintergrund.png">
+
+<h1 style="color: red;">Preußisches Bataillon</h1>
+
+<hr>
+
+<h2 style="color: red;">Logo</h2>
+
+<!-- Eigenes Bild hier einfügen -->
+<img src="Logo.png" width="300">
+
+<hr>
+
+<h2 style="color: red;">Link zur Website</h2>
+
+<!-- Eigenen Link hier einfügen -->
+<a href="https://meine-webseite-16776c.webnode.page/" target="_blank">
+    Hier klicken
+</a>
+
+<hr>
+
+<footer>
+<p style="color: red;">© 2026 Preußisches Bataillon</p>
+</footer>
+
+</body>
+</html>
